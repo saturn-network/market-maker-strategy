@@ -1,0 +1,13 @@
+coverage/
+.travis.yml
+*.ts
+!*.d.ts
+
+src
+tslint.json
+tsconfig.json
+package-lock.json
+*.log
+*.tsbuildinfo
+
+!dist
