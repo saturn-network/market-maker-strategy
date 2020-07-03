@@ -1,6 +1,6 @@
 {
     "name": "@saturnnetwork/market-maker-strategy",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "Market Making Strategy for Saturn Network DEX",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -47,7 +47,7 @@
         "typescript": "^3.4"
     },
     "dependencies": {
-        "@saturnnetwork/saturn.js": "^0.1.5",
+        "@saturnnetwork/saturn.js": "^0.1.8",
         "bignumber.js": "^8.1.1",
         "chalk": "^2.4.2",
         "ethers": "^4.0.27",
